@@ -1,0 +1,10 @@
+*{
+    margin: 0px;padding: 0;
+    box-sizing: border-box;
+}
+html1{
+    font-size: 16px;
+    color: #333;
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+}
